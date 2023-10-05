@@ -7,3 +7,4 @@
         link: https://github.com/HammedBabatunde/amigo-website/pull/6
         2nd Hactoberfest 2022/ToDoist added backgrounds
         3rd Devprofiles added mine profile
+        Made my Project into the Program for more intresting ideas about frontend.
