@@ -8,5 +8,7 @@
         2nd Hactoberfest 2022/ToDoist added backgrounds https://github.com/NisargaJN/Hacktoberfest_2022/pulls
         3rd Devprofiles added mine profile https://github.com/oyepriyansh/DevProfiles/pull/139
         Made my Project into the Program for more intresting ideas about frontend.
-        Wow!! made my first Pull/Merge request successful. 
-![hactoberfest](https://github.com/gauravtomar7/Hacktoberfest23/assets/116975109/22a6a229-b09f-4c62-a6bd-467bae197b83)
+        
+        Wow!! My first Pull/Merge request got accepted in Hactoberfest'23. 
+![hack](https://github.com/gauravtomar7/Hacktoberfest23/assets/116975109/194b55bf-8a63-4eeb-b2cb-ba394cc278c9)
+
