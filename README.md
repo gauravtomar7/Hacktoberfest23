@@ -7,6 +7,7 @@
         link: https://github.com/HammedBabatunde/amigo-website/pull/6
         2nd Hactoberfest 2022/ToDoist added backgrounds https://github.com/NisargaJN/Hacktoberfest_2022/pulls
         3rd Devprofiles added mine profile https://github.com/oyepriyansh/DevProfiles/pull/139
+        4th Top_Secrets improved the UI of about page
         Made my Project into the Program for more intresting ideas about frontend.
         
         Wow!! My first Pull/Merge request got accepted in Hactoberfest'23. 
