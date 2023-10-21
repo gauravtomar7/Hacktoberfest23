@@ -4,10 +4,11 @@
      1. Open cmnd pallet in VSCode and paste repository URL tha you want to work on in git clone bar.
      2. Make changes in code then commit a PR.
      3. Made mine first PR, Contributed in HammedBabatunde/amigo-website, just added a picture on the interference to look more userfriendly.
-        link: https://github.com/HammedBabatunde/amigo-website/pull/6
+        https://github.com/HammedBabatunde/amigo-website/pull/6
         2nd Hactoberfest 2022/ToDoist added backgrounds https://github.com/NisargaJN/Hacktoberfest_2022/pulls
-        3rd Devprofiles added mine profile https://github.com/oyepriyansh/DevProfiles/pull/139
-        4th Top_Secrets improved the UI of about page
+        3rd Made changes in my The_Moments project.
+        4th Devprofiles added mine profile https://github.com/oyepriyansh/DevProfiles/pull/139
+        5th Top_Secrets improved the UI of about page
     4.  Made my The_Moments project into the Hactoberfest'23 for more intresting ideas about it's frontend.
         
         Wow!! My first Pull/Merge request got accepted in Hactoberfest'23. 
